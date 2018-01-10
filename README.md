@@ -20,7 +20,7 @@ U - матрица линейных преобразований
 достигается когда
     
 U - собственные вектора ковариационной матрицы F, соответствующие максимальным m собственным значения L1,L2...Lm, то есть
-![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f5.gif)
 и
 ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f4.gif)
 
@@ -38,7 +38,7 @@ U - собственные вектора ковариационной матр�
 
 **def GetComponents(X, m):** принимает выборку исходную и m - кол-во компонент (размерность), которую нужно получить
 данные X передаются нормализованные, получили G и U из теоремы
-![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f5.gif)
 и
 ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f4.gif)
 
