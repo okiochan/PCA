@@ -17,9 +17,9 @@ U - матрица линейных преобразований
 Теорема:
     Если m <= rank F, то
     ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f2.gif)
-    достигается когда: 
+    достигается когда
     
-    U - собственные вектора ковариационной матрицы F:
+    U - собственные вектора ковариационной матрицы F
     
     ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
     
