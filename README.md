@@ -19,8 +19,8 @@ U - матрица линейных преобразований
 ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f2.gif)
 достигается когда
     
-U - собственные вектора ковариационной матрицы F
+U - собственные вектора ковариационной матрицы F, соответствующие максимальным m собственным значения L1,L2...Lm
     
 ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
 
-![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f4.gif)
