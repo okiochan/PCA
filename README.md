@@ -74,6 +74,8 @@ def GetComponents(X, m):
 
 ![](https://raw.githubusercontent.com/okiochan/PCA/master/img/n1.png)
 
+**Преимущества метода** в том, что мы понизили размерность выборки, при этом, сохранили 97% информации
+
 
 
 
