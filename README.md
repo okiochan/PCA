@@ -15,13 +15,10 @@ U - матрица линейных преобразований
 воспользуемся главной теоремой
 
 Теорема:
-    Если m <= rank F, то
-    ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f2.gif)
-    достигается когда
+Если m <= rank F, то
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f2.gif)
+достигается когда
     
-    U - собственные вектора ковариационной матрицы F
+U - собственные вектора ковариационной матрицы F
     
-    ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
-    
-    ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f4.gif)
-    
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f1.gif)
