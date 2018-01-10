@@ -20,6 +20,7 @@ U - матрица линейных преобразований
     достигается когда: 
     
     U - собственные вектора ковариационной матрицы F:
+    
     ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
     
     ![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f4.gif)
