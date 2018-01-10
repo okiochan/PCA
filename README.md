@@ -21,4 +21,6 @@ U - матрица линейных преобразований
     
 U - собственные вектора ковариационной матрицы F
     
-![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f1.gif)
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
+
+![](https://raw.githubusercontent.com/okiochan/PCA/master/formula/f3.gif)
